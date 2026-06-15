@@ -1,0 +1,86 @@
+1. Create Project Folder
+
+Example:
+
+Ecommerce-Capstone
+
+Put all files inside.
+
+2. Initialize Git
+git init
+3. Create README.md
+
+Example:
+
+# E-Commerce Product Catalog
+
+A responsive full-stack web application.
+
+## Features
+- Product Catalog
+- Search
+- Cart
+- Routing
+- Responsive Design
+- Accessibility
+
+## Deployment
+Hosted on Vercel
+4. Commit Files
+git add .
+git commit -m "Initial commit"
+5. Create GitHub Repository
+
+Go to:
+
+GitHub
+
+Create:
+
+ecommerce-capstone-project
+6. Push to GitHub
+git branch -M main
+git remote add origin https://github.com/USERNAME/ecommerce-capstone-project.git
+git push -u origin main
+Deploy on Vercel
+Option 1 (Recommended)
+
+Go to:
+
+Vercel
+
+Login with GitHub
+Import Repository
+Select project
+Click Deploy
+
+You will get:
+
+https://your-project.vercel.app
+Project Report Format
+Title
+
+E-Commerce Product Catalog Web Application
+
+Objective
+
+Develop and deploy a responsive web application using HTML5, CSS3, JavaScript and modern deployment platforms.
+
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Git
+GitHub
+Vercel
+Features
+Modular Frontend Architecture
+Client-side Routing
+Product Search
+Shopping Cart
+Responsive Design
+Accessibility
+SEO Optimization
+Outcome
+
+Successfully deployed a production-ready web application with a public URL.
